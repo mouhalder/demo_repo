@@ -1,0 +1,12 @@
+html{
+    background-color: darkgray;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 4px 4px 5px hsl(340, 74%, 56%);
+}
+form input, textarea, button{
+    display: block;
+    margin: 30px;
+}
